@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pol Project](https://poltalk.me/)
 
-- 🌱 I’m currently learning **Flutter, Vue**
+- 🌱 I’m currently learning Vue**, Project Management**
 
 - 👨‍💻 All of my projects are available at [https://appvision.me/](https://appvision.me/)
 
