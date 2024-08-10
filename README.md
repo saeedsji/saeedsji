@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saeed</h1>
 <h3 align="center">A backend developer</h3>
 
-- 🔭 I’m currently working on [Pol Project](https://poltalk.me/)
+- 🔭 I’m currently working on [Pol](https://poltalk.me/), [Aramia](https://aramia.me/), [Fitamoon](https://fitamoon.com/), [FX24](https://fx24broker.com/)
 
 - 🌱 I’m currently learning Vue(NUXT), Project Management, Devops, ...
 
